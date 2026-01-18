@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="r853_10_stend_pg.ico">r853_10_stend_pg.ico</file>
+    </qresource>
+</RCC>
